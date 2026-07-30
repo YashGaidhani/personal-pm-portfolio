@@ -16,4 +16,4 @@ independent research, and publicly available information.
 
 ---
 
-*All content is original. Written by Yash Gaidhani, PGDM General Management, XLRI Jamshedpur (2024–2026).*
+*All content is original. Written by Yash Gaidhani, PGDM General Management, MBA XLRI Jamshedpur.*
