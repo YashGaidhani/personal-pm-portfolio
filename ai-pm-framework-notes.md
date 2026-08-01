@@ -59,5 +59,5 @@ Standard product development lifecycles fail to account for the unique implement
 
 ---
 
-*These are working notes, updated as I build and study AI products. Last updated: 2025.*  
+*These are working notes, updated as I build and study AI products. Last updated: 2026.*  
 *— Yash Gaidhani | XLRI 2026 | linkedin.com/in/yashgaidhani*
