@@ -4,7 +4,7 @@
 **Stage:** Customer discovery → MVP definition → Paused  
 **Role:** Founder & Product Lead  
 **Timeline:** September 2019 – May 2020  
-**Status:** Paused — first unconstrained career decision after XLRI campus placement is PM  
+**Status:** Paused
 
 ---
 
