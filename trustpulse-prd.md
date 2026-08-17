@@ -5,6 +5,7 @@
 **Date:** 2025  
 **Status:** MVP Definition Complete  
 **Product Type:** AI verification layer (B2C/B2B utility)  
+**Product URL (Vibe Coded Prototype):** https://trustpulse-ai-check.lovable.app
 
 ---
 
